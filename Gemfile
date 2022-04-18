@@ -28,3 +28,7 @@ group :development do
   # gem "spring"
 end
 
+
+gem "importmap-rails", "~> 1.0"
+
+gem "hotwire-rails", "~> 0.1.3"
